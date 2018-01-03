@@ -85,6 +85,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="README.md" />
     <None Include="Resources\PDF1.pdf" />
     <None Include="Resources\PDF1_Original.docx" />
   </ItemGroup>
